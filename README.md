@@ -6,7 +6,7 @@ O objetivo deste projeto é criar uma nova versão da [Pokedex](https://github.c
 
 Clone o repositório com o comando:
 ```
-git clone https://github.com/thspanhol/pokevue.git
+git clone https://github.com/thspanhol/pokedex-vue.git
 ```
 
 Depois entre na pasta do projeto e instale as dependências com o comando:
